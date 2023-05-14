@@ -58,12 +58,8 @@ export default function Footer({ events, startOver, handleImageDropped }) {
         <Link href="https://sidicode.org.ng">
           <a target="_blank">Sidicode</a>
         </Link>
-        ,{" "}
-        <Link href="https://replicate.com/timothybrooks/instruct-pix2pix?utm_source=project&utm_campaign=paintbytext">
-          <a target="_blank">Replicate</a>
-        </Link>
         , and{" "}
-        <Link href="https://github.com/sidicodet/s">
+        <Link href="https://github.com/sidicodet/paint-by-text-AI">
           <a target="_blank">GitHub</a>
         </Link>
       </div>
