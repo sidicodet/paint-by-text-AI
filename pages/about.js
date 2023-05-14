@@ -28,7 +28,6 @@ export default function About() {
           </Link>
           , an open-source machine learning model that combines the knowledge
           from <Link href="https://openai.com/api/">GPT-3</Link> and{" "}
-          {" "}
           to generate a large dataset of image editing examples. This model was
           created at the University of ilorin, Kwara State  
           by{" "}
