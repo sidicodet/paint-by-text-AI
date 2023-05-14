@@ -11,7 +11,7 @@ export default function Footer({ events, startOver, handleImageDropped }) {
   return (
     <footer className="w-full my-8">
       <div className="text-center">
-        <Link href="/about">
+        <Link href="/about-this">
           <a className="lil-button">
             <InfoIcon className="icon" />
             What is this?
