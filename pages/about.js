@@ -22,36 +22,31 @@ export default function About() {
         </p>
 
         <p className="prose">
-          The image generation is powered by{" "}
-          <Link href="https://www.timothybrooks.com/instruct-pix2pix/">
-            InstructPix2Pix
+          The image generation is created by{" "}
+          <Link href="https://www.sidicode.org.ng">
+            Sidicode
           </Link>
           , an open-source machine learning model that combines the knowledge
           from <Link href="https://openai.com/api/">GPT-3</Link> and{" "}
-          <Link href="https://replicate.com/stability-ai/stable-diffusion?utm_source=project&utm_campaign=paintbytext">
-            Stable Diffusion
-          </Link>{" "}
+          {" "}
           to generate a large dataset of image editing examples. This model was
-          created at the University of California, Berkeley by{" "}
-          <Link href="https://timothybrooks.com/about">Tim Brooks</Link>,{" "}
-          <Link href="http://www.holynski.org/">Aleksander Holynski</Link>, and{" "}
-          <Link href="https://people.eecs.berkeley.edu/~efros/">
-            Alexei A. Efros
-          </Link>
+          created at the University of ilorin, Kwara State  
+          by{" "}
+          <Link href="https://sidicode.org.ng/about">Abdulakeem O.</Link>,{" "}
           .
         </p>
 
         <p className="prose">
           The model is hosted on{" "}
-          <Link href="https://replicate.com/timothybrooks/instruct-pix2pix?utm_source=project&utm_campaign=paintbytext">
+          <Link href="https://replicate.com">
             Replicate
           </Link>
           , which exposes a cloud API for running predictions. This website is
           built with Next.js and hosted on
-          <Link href="https://vercel.com/templates/ai">Vercel</Link>, and uses
-          Replicate&apos;s API to run the InstructPix2Pix model. The source code
+          <Link href="https://vercel.com>Vercel</Link>, and uses
+          Replicate&apos;s API to run the model. The source code
           is publicly available on{" "}
-          <Link href="https://github.com/replicate/instruct-pix2pix-demo">
+          <Link href="https://github.com/sidicodet/paint-by-text-AI">
             GitHub
           </Link>
           . Pull requests welcome!
