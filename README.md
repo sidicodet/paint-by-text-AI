@@ -1,4 +1,4 @@
-# 👩‍🎨 Paint by Text
+# 👩‍🎨 Paint by Text AI
 
 Modify images by chatting with a generative AI model.
 
