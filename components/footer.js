@@ -57,7 +57,7 @@ export default function Footer({ events, startOver, handleImageDropped }) {
         Created by{" "}
         <Link href="https://sidicode.org.ng">
           <a target="_blank">Sidicode</a>
-        </Link>
+        </Link>.
       </div>
     </footer>
   );
