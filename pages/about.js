@@ -32,7 +32,6 @@ export default function About() {
           created at the University of ilorin, Kwara State  
           by{" "}
           <Link href="https://sidicode.org.ng/about">Abdulakeem O.</Link>,{" "}
-          .
         </p>
 
         <p className="prose">
@@ -48,7 +47,7 @@ export default function About() {
           <Link href="https://github.com/sidicodet/paint-by-text-AI">
             GitHub
           </Link>
-          . Pull requests welcome!
+           Pull requests welcome!
         </p>
 
         <div className="text-center mt-10">
