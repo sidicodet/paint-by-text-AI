@@ -45,9 +45,8 @@ export default function About() {
           Replicate&apos;s API to run the model. The source code
           is publicly available on{" "}
           <Link href="https://github.com/sidicodet/paint-by-text-AI">
-            GitHub
+            , GitHub
           </Link>
-           Pull requests welcome!
         </p>
 
         <div className="text-center mt-10">
