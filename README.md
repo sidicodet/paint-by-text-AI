@@ -2,7 +2,7 @@
 
 Modify images by chatting with a generative AI model.
 
-Try it out at [paintbytext.chat](http://paintbytext.chat)
+Try it out at [pbto.vercel.app](http://pbto.vercel.app)
 
 ## How it works
 
